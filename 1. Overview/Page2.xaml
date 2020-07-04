@@ -1,0 +1,21 @@
+﻿<Page x:Class="WpfWebStyle._1._Overview.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._1._Overview"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page2">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="193" Width="361"><Run Text="Label function"/><LineBreak/><Run Text="This function allows users to create a program with labels"/><LineBreak/><Run Text="Program can be created without considering device numbers, and devices can be read of written using labels names."/><LineBreak/></TextBlock>
+        <Image Margin="457,10,10.4,341.2" Source="/WpfWebStyle;component/Image1.png" Stretch="Fill"/>
+        <Separator/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="289" Width="435"><Run Text="Device monitor function"/><LineBreak/><Run Text="Utilizing PLC Monitor Utility enables user to monitor the status of the specified device and change its data."/><LineBreak/><Run Text="Note: Device data of QS CPU cannot be changed  "/></TextBlock>
+        <Image Margin="457,316,61.4,87.2" Source="/WpfWebStyle;component/Image2.png" Stretch="Fill"/>
+
+
+
+    </Grid>
+</Page>

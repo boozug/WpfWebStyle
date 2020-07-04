@@ -1,0 +1,17 @@
+﻿<Page x:Class="WpfWebStyle.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle"
+      mc:Ignorable="d" Background="White"
+      Title="Page1" Width="870" Height="615">
+    <Page.Resources>
+
+    </Page.Resources>
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="433" Margin="10,10,-90.6,0" TextWrapping="Wrap" Text="1. Overview &#xA;&#xA;1.1 Overview of MX Component&#xA;&#xA;- MX Component is a tool designed to implement communication from a personal computer to the programmable controller without any knowledge of communication protocols and modules.&#xA;- Program development with serial communication and Ethernet communication used be complicated, however, it is simplified by using the common functions.&#xA;- When apply any of the following program examples to the actual system, examine the applicability and confirm that no problem will occur in the system control.&#xA;&#xA;1.2 Features&#xA;&#xA;Support of a wide range of communication paths for programmable controller&#xA;A wide range of communication paths to the programmable controller are supported to enable the user to configure up a system as desired.&#xA;&#xA;-Substantial improvement in user's development efficiency&#xA;MX Component comes with the wizard type Communication Setup Utility.&#xA;By Simply setting dialog-based communication settings on the screen, the user can achieve communication settings to access the programmable controller CPU to communicate with.&#xA;Once the communication setting are set, stations can be accessed by merely specifying the logical station number of the programmable controller CPU stored on Communication Setup Utility.&#xA;&#xA;-Save and read of communication settings.&#xA;MX Component features the functions to save and read the Communication Setup Utility.&#xA;The set data can easily be moved from the personal computer used for development to that used for operation.&#xA;MX Component must be installed in both the personal used for development and the actually used personal computer.&#xA;" VerticalAlignment="Top" Width="848" TextChanged="TextBox_TextChanged" Background="White" BorderBrush="White" IsEnabled="False" Focusable="False"/>
+        <Image HorizontalAlignment="Left" Height="162" Margin="10,443,0,0" VerticalAlignment="Top" Width="848" Source="Capture.PNG" Stretch="None"/>
+
+    </Grid>
+</Page>

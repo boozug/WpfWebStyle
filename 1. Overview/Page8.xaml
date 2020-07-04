@@ -1,0 +1,19 @@
+﻿<Page x:Class="WpfWebStyle._1._Overview.Page8"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._1._Overview"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page8">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="162" Width="440" Margin="10,10,0,0"><Run Text="Accessibility to gateway device of GOT"/><LineBreak/><Run Text="The gateway device data of GOT can be read/written by using the gateway function communication of MX Component. The device data of the programmable controller CPU that is being monitored by GOT can be read/written by reading from. writing to the gateway device data of GOT."/></TextBlock>
+        <Image Margin="475,10,10.4,301.2" Source="/WpfWebStyle;component/Image12.png" Stretch="Fill"/>
+        <Separator/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="145" Width="423"><Run Text="Compatibility with GOT transparent function"/><LineBreak/><Run Text="Using the GOT transparent function, the programmable controller CPU can be accessed via GOT"/></TextBlock>
+        <Image Margin="27,421,320.4,57.2" Source="/WpfWebStyle;component/Image14.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

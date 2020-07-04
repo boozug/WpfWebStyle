@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfWebStyle._1._Overview.Page6"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._1._Overview"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page6">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.086,-1.651" Height="81" Width="850"><Run Text="Using ASP function for monitoring via Internet/Intranet"/><LineBreak/><Run Text="Using the ASP function of VBScript and releasing the Web pages on the factory side (side which monitors data using MX Component) enables the programmable controller device status or remote operation for an error to be performed from a remote location or during business trip via the Ethernet/Intranet by merely specifying the factory side URL on Internet Explorer."/></TextBlock>
+        <Image Margin="10,131,10.4,61.2" Source="/WpfWebStyle;component/Image8.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

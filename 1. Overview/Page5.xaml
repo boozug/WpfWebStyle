@@ -1,0 +1,17 @@
+﻿<Page x:Class="WpfWebStyle._1._Overview.Page5"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._1._Overview"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page5">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="217" Width="850"><Run Text="Software required for Simulator function"/><LineBreak/><Run/><LineBreak/><Run Text="This function is not supported by QSCPU."/><LineBreak/><Run Text="GX Development and GX Simulator are separately required to use GX Simulator."/><LineBreak/><Run Text="GX Works 2 is required to use GX Simulator2."/><LineBreak/><Run Text="The maximum of 4 projects can be simulated simultaneously."/><LineBreak/><Run Text="GX Works3 is required to use GX Simulator3."/><LineBreak/><Run Text="Number of project the GX Simulator3 can simultaneously simulate depends on the number of GX Works3."/><LineBreak/><Run/><LineBreak/><Run Text="When using the simulation funtion (MT Simulator2) of MT Developer2"/><LineBreak/><Run Text="MT Developer2 is required to use MT Simulator2."/><LineBreak/><Run Text="The maximum of 3 projects can be simulated simultaneously."/><LineBreak/><Run Text="This function is supported by Q motion CPU only."/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="10,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="368" Width="160"><Run Text="A wide variety of programming languages supported"/><LineBreak/><Run Text="MX Component supports VBSCript and VBA as well as Visual Basic, Visual C++ and Visual C#"/><LineBreak/><Run Text="Creation of monitoring page using VBScript"/><LineBreak/><Run Text="Monitoring page can be created in HTML format"/><LineBreak/><Run Text="A graphical monitoring home page (HTML format) can be created by using the text editor,"/><LineBreak/><Run Text="Visual Basic, Visual C++, Visual C# or the like is not required to be purchased."/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <Image Margin="190,232,10.4,15.2" Source="/WpfWebStyle;component/Image7.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

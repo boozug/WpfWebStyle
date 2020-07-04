@@ -1,0 +1,24 @@
+﻿<Page x:Class="WpfWebStyle._1._Overview.Page9"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._1._Overview"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page9">
+    <Page.Resources>
+        <Style x:Key="TextBlockStyle1" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <!--S HorizontalAlignment="Left"-->
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <TextBlock  Margin="60,10,523.4,418.2" TextWrapping="Wrap"><Run Text="Reduction of error description search time"/><LineBreak/><Run Text="The ActSupport control for troubleshooting function is supported."/><LineBreak/><Run Text="The error description and corrective action are displayed within the user application by only specifying the error code."/><LineBreak/><Run Text="Therefore, checking error description or corrective action on the programming manual is not required when an error occurs in a control."/></TextBlock>
+        <Image Margin="377,10,10.4,418.2" Source="/WpfWebStyle;component/Image15.png" Stretch="Fill"/>
+        <Separator/>
+        <TextBlock Margin="60,320,400,18" TextWrapping="Wrap"><Run Text="Logging file transfer supported"/><LineBreak/><Run Text="A logging file in the SD memory card inserted in an RCPU can be transferred to a personal computer"/></TextBlock>
+    </Grid>
+</Page>
