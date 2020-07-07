@@ -1,0 +1,15 @@
+﻿<Page x:Class="WpfWebStyle._4._Operation_Procedure.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._4._Operation_Procedure"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page3">
+
+    <Grid>
+        <Image Margin="51,100,96.4,10.2" Source="/WpfWebStyle;component/Image52.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="51,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="90" Width="809"><Run Text="4.3 User Application Creating Procedures"/><LineBreak/><Run Text="When using Visual Basic.NET"/><LineBreak/><Run Text="The following describes the creation procedures when using Visual Basic.NET"/></TextBlock>
+    </Grid>
+</Page>

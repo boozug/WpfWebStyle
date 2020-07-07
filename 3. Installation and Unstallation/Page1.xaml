@@ -1,0 +1,15 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page1">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="35,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="315" Width="767"><Run Text="3 Installation an Uninstallation."/><LineBreak/><Run Text="3.1 Installation"/><LineBreak/><Run Text="The following explains the installation procedure. Screens from Windows 7 are used except for different operations required in other operating system."/><LineBreak/><Run Text="Point "/><LineBreak/><Run Text="Before installing MX Component, close the other applications running on Windows."/><LineBreak/><Run Text="The installer may not work normally because of the operating system's or other companies's update program (Windows Update, the Java update program, or the like) start automatically. Install MX Component after configuring those update programs not to start automatically."/><LineBreak/><Run Text="When installing MX Component, log on as a user with the administrator authority."/><LineBreak/><Run Text="For Windows 8, Windows 8.1 and Windows 10, &quot;NET Framework 3.5(includes NET 2.0 and 3.0)&quot; needs to be enables in &quot;Turn Windows features on or off&quot; on Control Panel."/><LineBreak/><Run Text="When updating MX Component from a removable media. uninstall MelfaRXM English before the installation."/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Page>

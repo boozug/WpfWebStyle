@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._4._Operation_Procedure.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._4._Operation_Procedure"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page1">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="72" RenderTransformOrigin="0.5,0.5" Width="682"><Run Text="4 Operation procedure"/><LineBreak/><Run Text="This chapter explains the selection of the MX Component utilities, development type, and the procedures for user application."/><LineBreak/><Run Text="4.1 Utilities"/><LineBreak/><Run Text="The following are the utilities used in MX Component."/></TextBlock>
+        <Image Margin="10,82,105.4,411.2" Source="/WpfWebStyle;component/Image50.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="228" RenderTransformOrigin="0.5,0.5" Width="755"><Run Text="4.2 Selecting development type"/><LineBreak/><Run Text="When using MX Component to create user applications, select the utility setting type or program setting type before creating a user application. The following explains utility setting type and program setting type and program setting type."/><LineBreak/><Run Text="Utility setting type"/><LineBreak/><Run Text="Set the communication settings using Communication Setting Wizard."/><LineBreak/><Run Text="With Communication Setup Utility, a user program can be created without being aware of the complicated parameters of any communication."/><LineBreak/><Run Text="In the user program, the communication line can be connected by simply setting the logical station number set on Communication Setting Wizard for the ACT or the .NET control property or into a user program."/><LineBreak/><Run Text="Program setting type."/><LineBreak/><Run Text="A user program is created without using Communication Setup Utility."/><LineBreak/><Run Text="Set the ACT control settings for the corresponding communication on the property window directly or within the user program. The required settings for the properties differ depending on the ACT control."/><LineBreak/><Run Text="Comparison."/><LineBreak/><Run Text="the following table compares the utility setting type and program setting type."/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+        <Image Margin="179,470,246.4,10.2" Source="/WpfWebStyle;component/Image51.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

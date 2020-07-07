@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page13"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page13">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="57,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="117" Width="803" RenderTransformOrigin="0.515,0.075"><Run Text="When MelfaRXM English warning message is displayed during installation from a removable media"/><LineBreak/><Run Text="The warning message of MelfaRXM English may be displayed during the installation from a removable media. In this case, perform the following operations. In this case, perform the following operations."/><LineBreak/><Run Text="1. Click the [Cancel] button."/><LineBreak/><Run Text="2. Terminate the installation."/><LineBreak/><Run Text="3. Uninstall MelfaRXM English."/><LineBreak/><Run Text="4. Install MX"/><Run Text=" Component again."/></TextBlock>
+        <Image Margin="57,132,397.4,203.2" Source="/WpfWebStyle;component/Image42.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

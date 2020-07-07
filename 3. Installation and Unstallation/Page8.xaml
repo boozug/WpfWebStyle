@@ -1,0 +1,21 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page8"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page8">
+    <Page.Resources>
+        <Style x:Key="TextBlockStyle1" TargetType="{x:Type TextBlock}"/>
+    </Page.Resources>
+
+    <Grid>
+        <Image Margin="10,10,339.4,338.2" Source="/WpfWebStyle;component/Image31.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="567,81,0,0" TextWrapping="Wrap" Text="If an ACT version (Page 417 Installation of ACT version) has been installed, the message shown on the left may be displayed .Click the [OK] button to proceed the installation." VerticalAlignment="Top" Style="{DynamicResource TextBlockStyle1}"/>
+        <Image Margin="10,277,399.4,15.2" Source="/WpfWebStyle;component/Image32.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="492,300,0,0" TextWrapping="Wrap" Text="10.Install MelfaRXM English.When the message shown on the left is displayed, click the [Next] button." VerticalAlignment="Top" Height="228"/>
+
+    </Grid>
+</Page>

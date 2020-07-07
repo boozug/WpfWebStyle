@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page18"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page18">
+
+    <Grid>
+        <Image Margin="10,10,242.4,386.2" Source="/WpfWebStyle;component/Image48.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="628,28,0,0" TextWrapping="Wrap" Text="3 .Click the [Yes] button.When not uninstalling MX Component, click the [No] button to return to the preceding screen.Components indicate the icons and files installed." VerticalAlignment="Top"/>
+        <Image Margin="10,229,397.4,10.2" Source="/WpfWebStyle;component/Image49.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="371" Margin="478,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298"><Run Text="When the screen on the left is displayed, uninstall is complete."/><LineBreak/><Run Text="4.Click the [OK] button to close the screen.5"/><LineBreak/><Run Text=".Restart the personal computer."/><LineBreak/><Run Text="Uninstall complete."/><LineBreak/><Run/><LineBreak/><Run Text="Point:"/><LineBreak/><Run Text="The MelfaRXM English used for communication with a robot controller is not uninstalled even if MX Component is uninstalled."/><LineBreak/><Run Text="MelfaRXM English can be uninstalled by any of the following methods. "/><LineBreak/><Run Text="• Uninstall MelfaRXM English from the control panel with the same procedure as MX Component."/><LineBreak/><Run Text="Select MelfaRXM English from the list of programs. "/><LineBreak/><Run Text="• Execute SetupRXM.exe in the &quot;EZSocketRc&quot; folder within the product CD-ROM."/><LineBreak/><Run Text="The software package with the version which has been installed must be used"/></TextBlock>
+
+    </Grid>
+</Page>

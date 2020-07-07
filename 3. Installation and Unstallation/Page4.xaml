@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page4">
+
+    <Grid>
+        <Image Margin="10,10,343.4,375.2" Source="/WpfWebStyle;component/Image21.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="553,10,0,0" TextWrapping="Wrap" Text="4. Check that all applications is closed and click the [OK] button. If the applications are running, close all running applications. If a USB device is connected, turn it off or unplug the USB cable." VerticalAlignment="Top" Height="217" Width="307"/>
+        <Image Margin="10,245,362.4,10.2" Source="/WpfWebStyle;component/Image22.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="553,257,0,0" TextWrapping="Wrap" Text="5. Starting setup. Enter the name and company name and click the [Next] button." VerticalAlignment="Top" Height="193" Width="269"/>
+
+    </Grid>
+</Page>

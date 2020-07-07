@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page12"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page12">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="When the &quot;Program Compatibility Assistant&quot; screen is displayed after installation"/><LineBreak/><Run Text="The &quot;Program Compatibility Assistant&quot; screen may be displayed after installation. Select &quot;This program installed correctly&quot; and restart the personal computer."/><LineBreak/><Run/></TextBlock>
+        <Image Margin="10,45,500.4,292.2" Source="/WpfWebStyle;component/Image39.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="375,45,0,0" TextWrapping="Wrap" Text="If &quot;Reinstall using recommended settings&quot; is selected, the &quot;Windows XP SP2 compatibility mode&quot; is automatically set. Disable the &quot;Windows XP SP2 compatibility mode&quot; by the following procedure, and install the product again." VerticalAlignment="Top" Width="407"/>
+        <Image Margin="10,323,510.4,10.2" Source="/WpfWebStyle;component/Image40.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="388,323,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="123"><Run Text="1.Right-click on the setup.exe icon of the installation target in the Windows explorer, and open the &quot;SETUP.EXE Properties&quot; screen."/><LineBreak/><Run Text="2.Select the [Compatibility] tab and click the [Change settings for all users] button."/><LineBreak/><Run Text="3.Clear the &quot;Run this program in compatibility mode for:&quot; check box of compatibility mode in the [Compatibility for all users] tab, and click the [OK] button."/><LineBreak/><Run Text="4.Click the [OK] button on the &quot;SETUP.EXE Properties&quot; screen."/><LineBreak/><Run Text="5.Install the product again. (&#xF0C1;Page 53 Installing the product)"/></TextBlock>
+    </Grid>
+</Page>

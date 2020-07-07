@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page16"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page16">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="850"><Run Text="3.2  Registered Icons"/><LineBreak/><Run Text="Installation of MX Component registers the following icons to [Start] =&gt; [All Programs] =&gt; [MELSOFT] =&gt; [MX Component]. Does not appear in Windows 8 or later."/></TextBlock>
+        <Image Margin="10,73,10.4,402.2" Source="/WpfWebStyle;component/Image43.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

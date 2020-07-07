@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfWebStyle._4._Operation_Procedure.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._4._Operation_Procedure"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page4">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,-25.6,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" Width="886"><Run Text="When using Visual C++ .NET"/><LineBreak/><Run Text="The following describe the creation procedures when using Visual C++ .NET"/><LineBreak/><Run/></TextBlock>
+        <Image Margin="10,55,112.4,10.2" Source="/WpfWebStyle;component/Image53.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,15 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page15"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page15">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="63,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="410" Width="761"><Run Text="When self-registration is not performed at the time of executing the installer"/><LineBreak/><Run Text="Some policies of [User Account Control] in the local security policy may not be installed properly on Windows Vista or later.Check the following policy settings."/><LineBreak/><Run Text="■Detect application installations and prompt for elevation"/><LineBreak/><Run Text="Select [Enabled]."/><LineBreak/><Run Text="If selecting [Disabled], a self-registration error may occur during installation."/><LineBreak/><Run Text="■Only elevate executables that are signed and validated"/><LineBreak/><Run Text="Select [Disabled]."/><LineBreak/><Run Text="If selecting [Enabled], an unsigned execution file cannot be executed and the installer cannot start properly."/><LineBreak/><Run Text="■Behavior of the elevation prompt for standard users"/><LineBreak/><Run Text="Select [Prompt for credentials on the secure desktop] or [Prompt for credentials]."/><LineBreak/><Run Text="If selecting [Automatically deny elevation requests], elevation fails and the installer cannot start properly."/></TextBlock>
+
+    </Grid>
+</Page>

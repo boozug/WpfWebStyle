@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._3._Installation_and_Unstallation.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._3._Installation_and_Unstallation"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page2">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="51" Width="463" Margin="10,10,0,0"><Run Text="Installation the product"/><LineBreak/><Run Text="Operating procedure"/><LineBreak/><Run/></TextBlock>
+        <Image Margin="10,66,397.4,212.2" Source="/WpfWebStyle;component/Image16.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="88" Width="387" Margin="473,10,0,0"><Run Text="1. Right click [Start] and select [Explorer]"/><LineBreak/><Run Text="Click the drive in which the disk is inserted, and double-click &quot;SETUP.EXE&quot;"/><LineBreak/><Run/><LineBreak/><Run Text="When user account control is enabled, the following screen is displayed."/><LineBreak/><Run Text="Click the [Yes] button. (&quot;Allow: for Windows Vista)"/><LineBreak/><Run/></TextBlock>
+        <Image Margin="478,103,10.4,288.2" Source="/WpfWebStyle;component/Image17.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>
