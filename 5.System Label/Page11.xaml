@@ -1,0 +1,21 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page11"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page11">
+
+    <Grid>
+        <Image Margin="0,0,536.4,440.2" Source="/WpfWebStyle;component/Image73.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="588,99,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="353,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Span FontSize="16"><Run Text=" "/></Span><Span Foreground="#FF242021"><Run Text="Select the set structure name to display the structure"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="setting list."/></Span><LineBreak/><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="4. "/></Span><Span Foreground="#FF242021"><Run Text="Set label names and data types for structure"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="member. ("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048;"/></Span><Span Foreground="#FF242021"><Run Text="Page 129, Section 7.3.4)"/></Span><LineBreak/><Run Text=""/></TextBlock>
+        <Image Margin="0,180,536.4,266.2" Source="/WpfWebStyle;component/Image74.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="339,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="5. "/></Span><Span Foreground="#FF242021"><Run Text="Right-click &quot;System Label List&quot; on the Navigation"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="window, and select [System Label List]"/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054;"/></Span><Span Foreground="#FF242021"><Run Text="[New]."/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048;"/></Span><Span Foreground="#FF242021"><Run Text="Page 124, Section 7.3.3)"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Set the system label list name"/></Span></TextBlock>
+        <Image Margin="10,354,536.4,10.2" Source="/WpfWebStyle;component/Image75.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="339,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="140" Width="353"><Span FontSize="16"><Run Text=" "/></Span><Span Foreground="#FF242021"><Run Text="Select the set system label list name to display the"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="system label list."/></Span><LineBreak/><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="6. "/></Span><Span Foreground="#FF242021"><Run Text="Set system label names and data types."/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048;"/></Span><Span Foreground="#FF242021"><Run Text="Page 124, Section 7.3.3)"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Click &quot;Detail Setting&quot; on the &quot;Device&quot; column of the"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="system label list"/></Span></TextBlock>
+
+    </Grid>
+</Page>

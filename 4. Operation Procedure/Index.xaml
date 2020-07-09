@@ -12,75 +12,39 @@
         <TabControl>
             <TabItem Header="_Page 1" >
                 <!--page 1 goes here-->
-                <!--<Frame x:Name="frame_Page1" HorizontalAlignment="Left" Source="Page1.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page1" HorizontalAlignment="Left" Source="Page1.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 2">
                 <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page2" HorizontalAlignment="Left" Source="Page2.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page2" HorizontalAlignment="Left" Source="Page2.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 3">
                 <!--page 3 goes here-->
-                <!--<Frame x:Name="frame_Page3" HorizontalAlignment="Left" Source="Page3.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page3" HorizontalAlignment="Left" Source="Page3.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 4">
                 <!--page 4 goes here-->
-                <!--<Frame x:Name="frame_Page4" HorizontalAlignment="Left" Source="Page4.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page4" HorizontalAlignment="Left" Source="Page4.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 5">
                 <!--page 5 goes here-->
-                <!--<Frame x:Name="frame_Page5" HorizontalAlignment="Left" Source="Page5.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page5" HorizontalAlignment="Left" Source="Page5.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 6">
                 <!--page 6 goes here-->
-                <!--<Frame x:Name="frame_Page6" HorizontalAlignment="Left" Source="Page6.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page6" HorizontalAlignment="Left" Source="Page6.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 7">
                 <!--page 7 goes here-->
-                <!--<Frame x:Name="frame_Page7" HorizontalAlignment="Left" Source="Page7.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page7" HorizontalAlignment="Left" Source="Page7.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 8">
                 <!--page 8 goes here-->
-                <!--<Frame x:Name="frame_Page8" HorizontalAlignment="Left" Source="Page8.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page8" HorizontalAlignment="Left" Source="Page8.xaml" VerticalAlignment="Top"/>
             </TabItem>
             <TabItem Header="_Page 9">
                 <!--page 9 goes here-->
-                <!--<Frame x:Name="frame_Page9" HorizontalAlignment="Left" Source="Page9.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 10">
-                <!--page 10 goes here-->
-                <!--<Frame x:Name="frame_Page10" HorizontalAlignment="Left" Source="Page10.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 11">
-                <!--page 11 goes here-->
-                <!--<Frame x:Name="frame_Page11" HorizontalAlignment="Left" Source="Page11.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 12">
-                <!--page 12 goes here-->
-                <!--<Frame x:Name="frame_Page12" HorizontalAlignment="Left" Source="Page12.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 13">
-                <!--page 13 goes here-->
-                <!--<Frame x:Name="frame_Page13" HorizontalAlignment="Left" Source="Page13.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 14">
-                <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page14" HorizontalAlignment="Left" Source="Page14.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 15">
-                <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page15" HorizontalAlignment="Left" Source="Page15.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 16">
-                <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page16" HorizontalAlignment="Left" Source="Page16.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 17">
-                <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page17" HorizontalAlignment="Left" Source="Page17.xaml" VerticalAlignment="Top"/>-->
-            </TabItem>
-            <TabItem Header="_Page 18">
-                <!--page 2 goes here-->
-                <!--<Frame x:Name="frame_Page18" HorizontalAlignment="Left" Source="Page18.xaml" VerticalAlignment="Top"/>-->
+                <Frame x:Name="frame_Page9" HorizontalAlignment="Left" Source="Page9.xaml" VerticalAlignment="Top"/>
             </TabItem>
         </TabControl>
     </Grid>

@@ -1,0 +1,29 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page20"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page20">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="659*"/>
+            <ColumnDefinition Width="211*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Height="100.222" Margin="9.753,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="850" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-1.554"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-1.112"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Span FontSize="16" FontFamily="Arial,Bold"><Run Text=" "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="28" FontFamily="Arial,Bold"><Run Text="5.1.4 "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="18.6666666666667" FontFamily="Arial,Bold"><Run Text="Using System Labels on another personal computer"/></Span><LineBreak/><Span FontSize="16" FontFamily="Arial"><Run Text=" "/></Span><Span Foreground="#FF242021" FontSize="12" FontFamily="Arial"><Run Text="Export a LabelSpace, and import it to another personal computer to use a system label."/></Span><LineBreak/><Span FontWeight="Normal"><Run Text=" "/></Span><Span Foreground="#FF242021"><Run Text="(1) Exporting LabelSpaces"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="&#x9;Export a LabelSpace, and create a file."/></Span><LineBreak/><Span Foreground="#FF242021"><Run/></Span><Run Text="&#x9;"/><Run FontWeight="Bold" Text="Operating procedure"/><LineBreak/><Span Foreground="#FF242021" FontSize="12" FontFamily="Arial"><Run/></Span><LineBreak/><Span Foreground="#FF242021" FontSize="12" FontFamily="Arial"><Run/></Span></TextBlock>
+        <Image Margin="10,115.063,168.051,167.937" Source="/WpfWebStyle;component/Image102.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="332" Margin="491,115.063,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="369" Grid.ColumnSpan="2"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="1. "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021"><Run Text="[Start] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[All Programs] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[MELSOFT"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Application]"/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054;"/></Span><Span Foreground="#FF242021"><Run Text="[MX Component]"/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054;"/></Span><Span Foreground="#FF242021"><Run Text="[Communication"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Setup Utility]"/></Span><LineBreak/><Span Foreground="#FF242021" FontFamily="Symbol"><Run Text="&#xF0AE; "/></Span><Span Foreground="#FF242021"><Run Text="Communication Setup Utility starts."/></Span><LineBreak/><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="2. "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021"><Run Text="[Menu] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[COM setup export]"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048; "/></Span><Span Foreground="#FF242021"><Run Text="Page 96, Section 7.1.5)"/></Span><LineBreak/><Run Text=""/></TextBlock>
+
+    </Grid>
+</Page>

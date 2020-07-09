@@ -9,6 +9,8 @@
       Title="Page8">
 
     <Grid>
-        
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="41" Width="842"><Run Text="4.4 PLC Monitor Utility Operating Procedure"/><LineBreak/><Run Text="The following is PLC Monitor Utility operating procedure"/></TextBlock>
+        <Image Margin="10,56,18.4,10.2" Source="/WpfWebStyle;component/Image57.png" Stretch="Fill"/>
+
     </Grid>
 </Page>

@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page24"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page24">
+
+    <Grid>
+        <Image Margin="10,0,400.228,316.291" Source="/WpfWebStyle;component/Image109.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="288.709" Margin="474.772,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="385.228"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="4. "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021"><Run Text="[Start] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[All Programs] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[MELSOFT"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Application] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[MX Component] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[Label Utility]"/></Span><LineBreak/><Span Foreground="#FF242021" FontFamily="Symbol"><Run Text="&#xF0AE;&#xF020;"/></Span><Span Foreground="#FF242021"><Run Text="Label Utility starts."/></Span></TextBlock>
+        <Image Margin="10,303.709,413.038,10" Source="/WpfWebStyle;component/Image110.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="287.722" Margin="461.962,317.278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="398.038"><Span FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="5. "/></Span><Span Foreground="#FF242021" FontSize="12" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="12" FontFamily="Arial,Bold"><Run Text="[Menu] "/></Span><Span Foreground="#FF242021" FontSize="12" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="12" FontFamily="Arial,Bold"><Run Text="[Import] ("/></Span><Span Foreground="#FF242021" FontSize="12" FontFamily="GXW2_Symbol"><Run Text="&#xF048; "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="12" FontFamily="Arial,Bold"><Run Text="Page 134, Section 7.3.9)"/></Span></TextBlock>
+
+    </Grid>
+</Page>

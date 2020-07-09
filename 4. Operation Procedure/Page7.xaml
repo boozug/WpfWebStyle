@@ -9,7 +9,8 @@
       Title="Page7">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="199" Width="860"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="796"><Run Text="When using VBScript"/><LineBreak/><Run Text="The following describes the creation procedures when using VBScript."/></TextBlock>
+        <Image Margin="10,47,-1.6,10.2" Source="/WpfWebStyle;component/Image56.png" Stretch="Fill"/>
 
     </Grid>
 </Page>

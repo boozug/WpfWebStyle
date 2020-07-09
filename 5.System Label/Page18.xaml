@@ -1,0 +1,17 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page18"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page18">
+
+    <Grid>
+        <Image Margin="0,0,355,247" Source="/WpfWebStyle;component/Image98.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="358" Margin="520,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="340"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="5. "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021"><Run Text="[Menu] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[Save LabelSpace]"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048; "/></Span><Span Foreground="#FF242021"><Run Text="Page 121, Section 7.3.1)"/></Span><LineBreak/><Span Foreground="#FF242021" FontFamily="Symbol"><Run Text="&#xF0AE; "/></Span><Span Foreground="#FF242021"><Run Text="The system label is registered."/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="For referring more than one Workspace, select"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="LabelSpace from the LabelSpace window first, and"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="operate the procedure 2 to 4."/></Span><LineBreak/><Run Text=""/></TextBlock>
+        <Image Margin="10,368,585,166" Source="/WpfWebStyle;component/Image99.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="76" Margin="303.608,373,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="556.392"><Span FontWeight="Normal" FontSize="16"><Run Text=" "/></Span><Span Foreground="#FF242021"><Run Text="The system label notification icon is displayed while"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="referring more than one Workspace."/></Span><LineBreak/><Run Text=""/></TextBlock>
+    </Grid>
+</Page>

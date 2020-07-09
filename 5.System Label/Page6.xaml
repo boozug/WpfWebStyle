@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page6"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page6">
+
+    <Grid>
+        <Image Margin="10,0,348.4,248.2" Source="/WpfWebStyle;component/Image63.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="527,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="5. "/></Span><Span Foreground="#FF242021"><Run Text="Right-click &quot;Logical Station Number&quot; on the"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Navigation window, and select [Logical Station"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Number]"/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054;"/></Span><Span Foreground="#FF242021"><Run Text="[Regist]."/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="("/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF048;"/></Span><Span Foreground="#FF242021"><Run Text="Page 123, Section 7.3.2"/></Span></TextBlock>
+
+    </Grid>
+</Page>

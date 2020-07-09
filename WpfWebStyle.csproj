@@ -184,6 +184,99 @@
     <Compile Include="4. Operation Procedure\Page9.xaml.cs">
       <DependentUpon>Page9.xaml</DependentUpon>
     </Compile>
+    <Compile Include="5.System Label\Index.xaml.cs">
+      <DependentUpon>Index.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page10.xaml.cs">
+      <DependentUpon>Page10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page11.xaml.cs">
+      <DependentUpon>Page11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page12.xaml.cs">
+      <DependentUpon>Page12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page13.xaml.cs">
+      <DependentUpon>Page13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page14.xaml.cs">
+      <DependentUpon>Page14.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page15.xaml.cs">
+      <DependentUpon>Page15.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page16.xaml.cs">
+      <DependentUpon>Page16.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page17.xaml.cs">
+      <DependentUpon>Page17.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page18.xaml.cs">
+      <DependentUpon>Page18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page19.xaml.cs">
+      <DependentUpon>Page19.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page20.xaml.cs">
+      <DependentUpon>Page20.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page21.xaml.cs">
+      <DependentUpon>Page21.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page22.xaml.cs">
+      <DependentUpon>Page22.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page23.xaml.cs">
+      <DependentUpon>Page23.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page24.xaml.cs">
+      <DependentUpon>Page24.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page25.xaml.cs">
+      <DependentUpon>Page25.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page3.xaml.cs">
+      <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page4.xaml.cs">
+      <DependentUpon>Page4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page5.xaml.cs">
+      <DependentUpon>Page5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page6.xaml.cs">
+      <DependentUpon>Page6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page7.xaml.cs">
+      <DependentUpon>Page7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page8.xaml.cs">
+      <DependentUpon>Page8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="5.System Label\Page9.xaml.cs">
+      <DependentUpon>Page9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6. Starting and Exit Utility\Index.xaml.cs">
+      <DependentUpon>Index.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6. Starting and Exit Utility\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6. Starting and Exit Utility\Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6. Starting and Exit Utility\Page3.xaml.cs">
+      <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="6. Starting and Exit Utility\Page4.xaml.cs">
+      <DependentUpon>Page4.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\UserControl1.xaml.cs">
       <DependentUpon>UserControl1.xaml</DependentUpon>
     </Compile>
@@ -359,6 +452,130 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="5.System Label\Index.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page12.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page13.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page14.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page15.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page16.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page17.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page18.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page19.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page20.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page21.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page22.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page23.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page24.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page25.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="5.System Label\Page9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="6. Starting and Exit Utility\Index.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="6. Starting and Exit Utility\Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="6. Starting and Exit Utility\Page2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="6. Starting and Exit Utility\Page3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="6. Starting and Exit Utility\Page4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -409,8 +626,6 @@
     <Resource Include="Capture.PNG" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="5.System Label\" />
-    <Folder Include="6. Starting and Exit Utility\" />
     <Folder Include="7. Communication Example of Utility Setting Type\" />
     <Folder Include="8. Communication Example of Programming Setting Type\" />
   </ItemGroup>
@@ -581,6 +796,189 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image56.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image59.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image66.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image67.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image69.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image73.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image74.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image78.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image79.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image82.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image83.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image84.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image85.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image86.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image87.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image88.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image89.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image93.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image94.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image97.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image98.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image102.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image105.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image107.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image108.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image114.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image115.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image116.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

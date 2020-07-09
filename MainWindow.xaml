@@ -242,10 +242,10 @@
                 <Frame x:Name="frame3" HorizontalAlignment="Left" Source="3. Installation and Unstallation\Index.xaml" VerticalAlignment="Top" NavigationUIVisibility="Hidden"/>
             </TabItem>
             <TabItem Header="Operation Procedure">
-                <TextBlock Text="Other page" />
+                <Frame x:Name="frame4" HorizontalAlignment="Left" Source="4. Operation Procedure\Index.xaml" VerticalAlignment="Top" NavigationUIVisibility="Hidden"/>
             </TabItem>
             <TabItem Header="System Label">
-                <TextBlock Text="Other page" />
+                <Frame x:Name="frame5" HorizontalAlignment="Left" Source="5.System Label\Index.xaml" VerticalAlignment="Top" NavigationUIVisibility="Hidden"/>
             </TabItem>
             <TabItem Header="Starting and Exit Utility">
                 <TextBlock Text="Utility Operatioin" />

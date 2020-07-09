@@ -1,0 +1,17 @@
+﻿<Page x:Class="WpfWebStyle._6._Starting_and_Exit_Utility.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._6._Starting_and_Exit_Utility"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page3">
+
+    <Grid>
+        <Image Margin="10,10,450,358" Source="/WpfWebStyle;component/Image115.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="252" Margin="408.418,5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="451.582"><Span FontSize="16"><Run Text=" "/></Span><Span Foreground="#FF242021"><Run Text="For administrator users, the message shown on the left"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="is displayed."/></Span><LineBreak/><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="2. "/></Span><Span Foreground="#FF242021"><Run Text="Select button or &quot;Allow&quot; to execute a"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="program with the administrator authority."/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Select button or &quot;Cancel&quot; to cancel the"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="execution."/></Span></TextBlock>
+        <Image Margin="71.519,262,415.481,26" Source="/WpfWebStyle;component/Image116.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

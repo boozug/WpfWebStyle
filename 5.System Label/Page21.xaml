@@ -1,0 +1,18 @@
+﻿<Page x:Class="WpfWebStyle._5.System_Label.Page21"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfWebStyle._5.System_Label"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="870" Background="White"
+      Title="Page21">
+
+    <Grid>
+        <Image Margin="10,10,410.063,373.114" Source="/WpfWebStyle;component/Image103.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="231.886" Margin="490,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370"><Span Foreground="#FF242021" FontWeight="Bold" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="3. "/></Span><Span Foreground="#FF242021" FontWeight="Bold" FontSize="12" FontFamily="Arial,Bold"><Run Text="Enter the file name to be saved."/></Span></TextBlock>
+        <Image Margin="15,261,410.063,28.228" Source="/WpfWebStyle;component/Image104.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="313.462" Margin="464.937,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="395.063"><Span FontWeight="Normal" FontSize="16" FontFamily="Arial,BoldItalic"><Run Text=" "/></Span><Span Foreground="#FF242021" FontStyle="Italic" FontSize="17.3333333333333" FontFamily="Arial,BoldItalic"><Run Text="4. "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF041; "/></Span><Span Foreground="#FF242021"><Run Text="[Start] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[All Programs] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[MELSOFT"/></Span><LineBreak/><Span Foreground="#FF242021"><Run Text="Application] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[MX Component] "/></Span><Span Foreground="#FF242021" FontWeight="Normal" FontFamily="GXW2_Symbol"><Run Text="&#xF054; "/></Span><Span Foreground="#FF242021"><Run Text="[Label Utility]"/></Span><LineBreak/><Span Foreground="#FF242021" FontFamily="Symbol"><Run Text="&#xF0AE;&#xF020;"/></Span><Span Foreground="#FF242021"><Run Text="Label Utility starts."/></Span><LineBreak/><Run Text=""/></TextBlock>
+
+    </Grid>
+</Page>
